@@ -21,8 +21,8 @@ Ce projet permet d'importer, enrichir, et visualiser des données de vol, client
         data/client
         data/reservation
 
-    Ces fichiers d'exemple contiennent plusieurs types de données pour simuler les imports.  
-    **Tout l'intéret du projet est de lancer le programme plusieurs fois, en ajoutant des fichiers à chaque fois pour les intégrer**
+  Ces fichiers d'exemple contiennent plusieurs types de données pour simuler les imports.    
+  **Tout l'intéret du projet est de lancer le programme plusieurs fois, en ajoutant des fichiers à chaque fois pour les intégrer. Vous pouvez faire exprès de faire des erreurs et ajouter de fichiers corrompus**
 
 ## Lancer le Projet
 
